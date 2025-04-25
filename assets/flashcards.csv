@@ -1,0 +1,12 @@
+﻿word,meaning,image_path,audio_path
+,,,
+  ,,,
+cat,meo,assets/images/Cat03.jpg,assets/sounds/Cat03.jpg
+dog,cho,assets/images/images.jpg,assets/sounds/images.jpg
+monkey,khi,,
+mokey,khi,assets/images/Cat_November_2010-1a.jpg,assets/sounds/Cat_November_2010-1a.jpg
+robot,robot,assets/images/baymax-performing-pain-rate-test-in-big-hero-6-yby5lh4w0j66t1qe.jpg,assets/sounds/baymax-performing-pain-rate-test-in-big-hero-6-yby5lh4w0j66t1qe.jpg
+cat,meo,assets/images/Cat_November_2010-1a.jpg,assets/sounds/Cat_November_2010-1a.jpg
+cat,hooo,,
+aaa,aaaaa,assets/images/Cat_November_2010-1a.jpg,assets/sounds/Cat_November_2010-1a.jpg
+test,test,assets/images/stm32pin.jpg,assets/sounds/stm32pin.jpg
